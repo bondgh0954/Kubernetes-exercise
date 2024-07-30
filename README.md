@@ -32,7 +32,7 @@
    <img src='./is/a1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    change the permissions of the kubeconfig file and export it as environmental variable<br/>
    <img src='./is/a2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
-   
+
 
    <h2>step2</h2>
    Deploy Mysql database with 3 secondary replicas and volumes for data persistence<br/>
@@ -41,6 +41,10 @@
    Create a values configuration file to override certain default values of the helm chart<br/>
    helm-mysql.yaml
    <img src='./is/a3.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+
+   Install the chart by passing the values file to override certain values<br/>
+   <img src='./is/a4.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    
   
 
