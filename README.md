@@ -30,6 +30,8 @@
 
    Kubernetes cluster created in linode<br/>
    <img src='./is/a1.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+   
    change the permissions of the kubeconfig file and export it as environmental variable<br/>
    <img src='./is/a2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
