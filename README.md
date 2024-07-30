@@ -39,7 +39,10 @@
    Search for mysql helm chart<br/>
    add the repository that contains the helm chart<br/>
    Create a values configuration file to override certain default values of the helm chart<br/>
-   helm-mysql.yaml
+   set architecture to replication<br/>
+   set to create persistence volume with linode block storage<br/>
+   set auth root password<br/>
+   helm-mysql.yaml<br/>
    <img src='./is/a3.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
