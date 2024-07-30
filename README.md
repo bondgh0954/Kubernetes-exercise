@@ -38,7 +38,9 @@
    Deploy Mysql database with 3 secondary replicas and volumes for data persistence<br/>
    Search for mysql helm chart<br/>
    add the repository that contains the helm chart<br/>
-   <img src='./is/a2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   Create a values configuration file to override certain default values of the helm chart<br/>
+   helm-mysql.yaml
+   <img src='./is/a3.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    
   
 
