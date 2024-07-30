@@ -64,13 +64,7 @@
 
    
 
-   
-   
-  
-  
-  
-
-   <h2>step3</h2>
+   <h2>step3   Deploy the Java application with 2 replicas</h2>
  
    
    
