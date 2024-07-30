@@ -36,8 +36,8 @@
    <img src='./is/a2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
 
 
-   <h2>step2</h2>
-   Deploy Mysql database with 3 secondary replicas and volumes for data persistence<br/>
+   <h2>step2  Deploy Mysql database with 3 secondary replicas and volumes for data persistence</h2>
+  
    Search for mysql helm chart<br/>
    add the repository that contains the helm chart<br/>
    Create a values configuration file to override certain default values of the helm chart<br/>
