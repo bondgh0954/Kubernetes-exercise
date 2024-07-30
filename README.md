@@ -45,6 +45,10 @@
 
    Install the chart by passing the values file to override certain values<br/>
    <img src='./is/a4.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+
+   mysql pod started with the set number of replicas in the values file "helm-mysql.yaml"<br/>
+   <img src='./is/a5.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    
   
 
