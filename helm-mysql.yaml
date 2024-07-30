@@ -1,0 +1,8 @@
+architecture: replication
+primary:
+  persistence:
+    storageClass: "linode-block-storage"
+secondary:
+  replicaCount: 3
+auth:
+  rootPassword: "secret-root-pwd"
