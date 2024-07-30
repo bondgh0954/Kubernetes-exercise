@@ -4,6 +4,11 @@
 - <b>Kubernetes</b> 
 - <b>Helm</b>
 - <b>Helmfile</b>
+- <b>Linode</b>
+- <b>Java</b>
+- <b>Ingress</b>
+- <b>Mysql</b>
+- <b>Phpmyadmin</b>
 
 
 
