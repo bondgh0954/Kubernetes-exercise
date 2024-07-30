@@ -49,6 +49,10 @@
 
    mysql pod started with the set number of replicas in the values file "helm-mysql.yaml"<br/>
    <img src='./is/a5.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+
+
+   mysql service and pods are all successfully created<br/>
+   <img src='./is/a7.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    
   
 
