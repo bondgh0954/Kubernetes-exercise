@@ -34,15 +34,12 @@
    <img src='./is/a2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
    
 
-   
-   
- 
-  
-   
-
-
-
    <h2>step2</h2>
+   Deploy Mysql database with 3 secondary replicas and volumes for data persistence<br/>
+   Search for mysql helm chart<br/>
+   add the repository that contains the helm chart<br/>
+   <img src='./is/a2.png' height="80%" width="80%" alt="Disk Sanitization Steps">
+   
   
 
    
