@@ -65,11 +65,15 @@
    
 
    <h2>step3   Deploy the Java application with 2 replicas</h2>
+    add dockerfile to the application<br/>
+    build a docker image from the application<br/>
+    push the image to a private docker registry<br/>
+    <img src='./is/a8.png' height="80%" width="80%" alt="Disk Sanitization Steps">
  
    
    
 
- <h2>step4</h2>
+   <h2>step4</h2>
  
      
 
