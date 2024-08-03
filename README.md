@@ -1,4 +1,4 @@
-#### This project is for the Devops Bootcamp Exercise for 
+#### This project was cloned from techworldwithNana for practice
 #### "Container Orchestration with Kubernetes" 
 
 
